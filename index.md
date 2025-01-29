@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-# Plain language &ndash; How it can improve readability/usability
+# Plain language <br /> How it can improve readability/usability
 
 by Bartek Biedrzycki
 
@@ -20,6 +20,3 @@ Formats available: HTML (markdown+github pages) / formatted PDF
 <hr>
 
 Konstancin-Jeziorna, 2025
-
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
-
