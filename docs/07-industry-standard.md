@@ -1,11 +1,11 @@
 ---
-title: Industry standard: Simple Technical English
+title: Industry standard - Simple Technical English
 layout: default
 nav_order: 70
 has_toc: false
 ---
 
-## Industry standard: Simple Technical English
+## Industry standard - Simple Technical English
 
 While it is now clear why plain language is important in technical communication, there is always the problem of finding a definite approach. There have been several attempts to do it, and a commonly accepted standard in the mid-2020s is the Simplified Technical English specification, brought forth by ASD Europe. However, there are more standards and I will briefly present a few of those.
 
