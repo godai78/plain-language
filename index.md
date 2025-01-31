@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 03
 ---
 
 # Plain language <br /> How it can improve readability/usability
