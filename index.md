@@ -16,7 +16,7 @@ Aim: help writers switch from creative to technical writing easily
 
 Reader persona: aspiring/novice technical writers, 20-30 for a novice, 40+ for people switching jobs on the current market, both male and female
 
-Formats available: HTML (markdown+github pages) / formatted PDF
+Formats available: HTML (markdown+github pages) / formatted PDF ([download](assets/Plain-language-v07.pdf))
 
 <hr>
 
