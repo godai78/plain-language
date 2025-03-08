@@ -1,4 +1,4 @@
-# Plain language - How it can improve readability/usability
+# Plain language - How it can improve readability and usability
 
 by Bartek Biedrzycki
 
