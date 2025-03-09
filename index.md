@@ -8,6 +8,9 @@ nav_order: 03
 ## How it can improve readability and usability
 ### by Bartek Biedrzycki
 
+
+![image](assets/plain-language-cover-art.svg)
+
 <hr>
 
 An Uczelnia Vistula final project for the Technical Communication course.

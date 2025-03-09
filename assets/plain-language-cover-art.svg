@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f5f5f5"/>
+  
+  <!-- Visual metaphor: Simple vs. Complex -->
+  
+  <!-- Left side (complex) -->
+  <g>
+    <!-- Complex dense text representation -->
+    <rect x="100" y="150" width="250" height="20" fill="#aaaaaa" opacity="0.7"/>
+    <rect x="100" y="180" width="250" height="20" fill="#aaaaaa" opacity="0.7"/>
+    <rect x="100" y="210" width="250" height="20" fill="#aaaaaa" opacity="0.7"/>
+    <rect x="100" y="240" width="250" height="20" fill="#aaaaaa" opacity="0.7"/>
+    <rect x="100" y="270" width="250" height="20" fill="#aaaaaa" opacity="0.7"/>
+    <rect x="100" y="300" width="250" height="20" fill="#aaaaaa" opacity="0.7"/>
+    <rect x="100" y="330" width="250" height="20" fill="#aaaaaa" opacity="0.7"/>
+    <rect x="100" y="360" width="200" height="20" fill="#aaaaaa" opacity="0.7"/>
+    <rect x="100" y="390" width="230" height="20" fill="#aaaaaa" opacity="0.7"/>
+    <rect x="100" y="420" width="240" height="20" fill="#aaaaaa" opacity="0.7"/>
+    
+    <!-- Maze/labyrinth symbolizing complexity -->
+    <path d="M150 110 L300 110 L300 140 L180 140 L180 80 L330 80 L330 50 L120 50 L120 110 Z" fill="none" stroke="#888888" stroke-width="4"/>
+  </g>
+  
+  <!-- Arrow pointing from complex to simple -->
+  <path d="M380 300 L420 300" stroke="#3366cc" stroke-width="6" stroke-linecap="round"/>
+  <polygon points="430,300 415,290 415,310" fill="#3366cc"/>
+  
+  <!-- Right side (simple) -->
+  <g>
+    <!-- Simple clean text representation -->
+    <rect x="450" y="180" width="200" height="25" fill="#3366cc" rx="4" ry="4"/>
+    <rect x="450" y="230" width="200" height="25" fill="#3366cc" rx="4" ry="4"/>
+    <rect x="450" y="280" width="200" height="25" fill="#3366cc" rx="4" ry="4"/>
+    <rect x="450" y="330" width="150" height="25" fill="#3366cc" rx="4" ry="4"/>
+    <rect x="450" y="380" width="180" height="25" fill="#3366cc" rx="4" ry="4"/>
+    
+    <!-- Clear path symbolizing simplicity -->
+    <path d="M500 110 L500 50 L650 50 L650 110" fill="none" stroke="#3366cc" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  
+  <!-- People figures showing improved usability -->
+  <g transform="translate(600, 450) scale(0.8)">
+    <!-- Figure 1 -->
+    <circle cx="20" cy="20" r="15" fill="#3366cc"/>
+    <path d="M20 35 L20 70 L10 100 M20 70 L30 100 M20 55 L0 65 M20 55 L40 65" stroke="#3366cc" stroke-width="6" stroke-linecap="round"/>
+    
+    <!-- Figure 2 with smile -->
+    <circle cx="80" cy="20" r="15" fill="#3366cc"/>
+    <path d="M80 35 L80 70 L70 100 M80 70 L90 100 M80 55 L60 65 M80 55 L100 65" stroke="#3366cc" stroke-width="6" stroke-linecap="round"/>
+    <path d="M72 20 A10 10 0 0 0 88 20" stroke="#ffffff" stroke-width="3" fill="none"/>
+  </g>
+  
+  <!-- Visual elements representing readability -->
+  <g transform="translate(150, 480)">
+    <circle cx="0" cy="0" r="15" fill="#aaaaaa"/>
+    <path d="M-8 -5 L8 -5 M-8 0 L8 0 M-8 5 L5 5" stroke="#ffffff" stroke-width="2"/>
+  </g>
+  
+  <g transform="translate(550, 130)">
+    <circle cx="0" cy="0" r="15" fill="#3366cc"/>
+    <path d="M-8 -5 L8 -5 M-8 0 L8 0 M-8 5 L5 5" stroke="#ffffff" stroke-width="2"/>
+    <!-- Magnifying glass -->
+    <circle cx="30" cy="-10" r="12" fill="none" stroke="#3366cc" stroke-width="3"/>
+    <line x1="38" y1="-2" x2="50" y2="10" stroke="#3366cc" stroke-width="3"/>
+  </g>
+</svg>
