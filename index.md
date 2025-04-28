@@ -21,9 +21,9 @@ An Uczelnia Vistula final project for the Technical Communication course.
 
 **Reader persona**: Aspiring/novice technical writers; 20-30yo for a novice, 40+ for people switching jobs on the current market; both male and female.
 
-Formats available: HTML (markdown+github pages) / formatted PDF ([download](assets/Plain-language-v07.pdf))
+Formats available: HTML (markdown+github pages) / formatted PDF ([download](assets/Plain-language-v08.pdf))
 
-Version: 0.7 (2025-03-08)
+Version: 0.8 (2025-04-28)
 
 | Author:  | Bartek Biedrzycki |
 | :---- | :---- |
@@ -34,7 +34,7 @@ Version: 0.7 (2025-03-08)
 To-do:
 
 - [x] review 1
-- [ ] review 2
+- [x] review 2
 - [ ] supervisor review
 - [ ] final PDF formatting
 - [ ] conversion to Markdown structure

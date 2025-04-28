@@ -7,13 +7,13 @@ has_toc: false
 
 ## 3. Differences between technical writing and creative writing
 
-There are significant differences between technical writing and other types of writing, such as creative or fiction. These differences reflect the purpose and the target audience of both, and largely affect the style and approach.
+There are significant differences between technical writing and other types of writing, such as creative or fiction. These differences reflect the purpose and the target audience of both and largely affect the style and approach.
 
-Technical writing focuses on explaining complex, often specialized ideas accurately and in a way that even a layman should be able to grasp them. Creative writing on the other hand aims to engage and amuse the readers through compelling storytelling.
+Technical writing focuses on explaining complex, often specialized ideas accurately and in a way that even a layman should be able to grasp. Creative writing, on the other hand, aims to engage and amuse the readers through compelling storytelling.
 
-Technical writers create documentation such as user guides, owner’s manuals, tutorials, troubleshooters, or white papers. Creative writing allows more freedom in both style and content delivered with the use of literary genres such as novels, short stories, or essays.
+Technical writers create documentation such as user guides, owners’ manuals, tutorials, troubleshooters, or white papers. Creative writing allows more freedom in both style and content delivered with the use of literary genres such as novels, short stories, or essays.
 
-Technical writing usually adopts a neutral, objective voice and uses precise terminology. It tends to avoid colloquial language and follows a specific structure for clear communication of complex information. Creative writing on the other hand often employs a unique language that reflects the writer’s or characters’ personality traits and persona within the story. It also has more freedom regarding word choice, including slang or poetic expressions, as well as styling the visual part of the writing.
+Technical writing usually adopts a neutral, objective voice and uses precise terminology. It tends to avoid colloquial language and follows a specific structure for clear communication of complex information. Creative writing often employs a unique language that reflects the writer’s or characters’ personality traits and persona within the story. It also has more freedom regarding word choice, including slang or poetic expressions, as well as styling the visual part of the writing.
 
 Technical writing demands thorough research and fact-checking, requires ensuring document consistency, and puts forward clarity and accuracy. In contrast, creative writing uses research and fact-checking to add depth to characters and stories, but it equally often exchanges the credibility of the fictional world for amusement and incorporates emotional appeal to keep readers’ attention.
 
@@ -31,7 +31,7 @@ The following table summarizes the key differences between these two genres in m
 | The tone of technical writing is objective. | The tone of creative writing is subjective. |
 | It is based on specialized vocabulary. | It is based on general, evocative vocabulary. |
 | It is organized sequentially and systematically. | It is organized arbitrarily and artistically and may not be systematic. |
-| In technical writing, graphics are included to give more information about the topic. | In creative writing, graphics are included to give more attraction to the topic. |
-| Technical writing depends on any result, research, information, etc. | Creative writing depends on the schedule and mindset of the writer. |
+| In technical writing, graphics are included to give more information about the topic. | In creative writing, graphics are included to give more allure to the topic. |
+| Technical writing depends on end result, research, information, etc. | Creative writing depends on the schedule and mindset of the writer. |
 
 <small>Table source: [Geeks For Geeks](https://www.geeksforgeeks.org/difference-between-technical-writing-and-creative-writing/)</small>
