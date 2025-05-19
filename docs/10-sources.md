@@ -5,7 +5,7 @@ nav_order: 100
 has_toc: false
 ---
 
-## 10. Sources {#10.-sources}
+## 10. Sources
 
 ### Books
 
@@ -26,4 +26,4 @@ has_toc: false
 2. [Technical Writers Blog](https://techwritersblog.com/technical-writing-basics/difference-between-technical-writing-and-other/), *How technical writing is different from other forms of writing*, Vaibhav Gupta  
 3. [University of North Texas](https://techcomm.unt.edu/news/tips-using-plain-language-technical-communication.html), *Tips for Using Plain Language in Technical Communication*, Leanna Lane Ferguson
 
-All online content has been recently accessed in February 2025.
+All online content has been most recently accessed in May 2025.
