@@ -19,7 +19,7 @@ Whether they are drafting software instructions, designing a website, or announc
 
 Below are the key benefits of applying plain language principles in technical communication, particularly in technical writing. They can be put in several main areas of interest.
 
-1. Usability and content comprehension
+* Usability and content comprehension
 
 Using plain language in these areas ensures that information is easy to understand, navigate, and process, reducing cognitive effort and improving user experience.
 
@@ -27,9 +27,9 @@ Plain language improves comprehension. It simplifies concepts and ideas, making 
 
 Plain language increases usability. Content written in plain language is easier to navigate, understand, and use. This leads to an overall better user experience. Structural and semantic elements such as clear headings, straightforward instructions, and even things like easy-to-understand navigation let users find the information they need without confusion or frustration.
 
-It makes the knowledge more approachable. Plain language reduces the cognitive load on users by presenting information in a digestible format. Putting the previous \- utterly terrible \- sentence clearly: using simple language makes the information clear and understandable even for users with lesser knowledge or otherwise less advanced. This is particularly helpful when users access information under stressful conditions, time pressure, or other inconveniences, especially if they are inexperienced.
+It makes the knowledge more approachable. Plain language reduces the cognitive load on users by presenting information in a digestible format. Putting the previous &ndash; utterly terrible &ndash; sentence clearly: using simple language makes the information clear and understandable even for users with lesser knowledge or otherwise less advanced. This is particularly helpful when users access information under stressful conditions, time pressure, or other inconveniences, especially if they are inexperienced.
 
-2. Accessibility and inclusivity
+* Accessibility and inclusivity
 
 Here, plain language makes content available to a wider audience, including people with disabilities, lower literacy levels, or language barriers, ensuring equitable access to information.
 
@@ -37,7 +37,7 @@ Plain language aids inclusivity. The texts can reach a broader audience, includi
 
 It benefits screen reader users. Plain language helps screen reader users by providing content that is clear and, hence, more likely to be properly interpreted by assistive technology. Simplified vocabulary and language structure let screen readers convey information more effectively. This greatly enhances the experience for users who need to rely on assistive technologies.
 
-3. Business advantage and technical benefits
+* Business advantage and technical benefits
 
 Using plain language enhances compliance with regulations, improves international reach, and reduces misunderstandings or errors, leading to better efficiency and user satisfaction.
 

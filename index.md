@@ -23,7 +23,7 @@ An Uczelnia Vistula final project for the Technical Communication course.
 
 Formats available: HTML (markdown+github pages) / formatted PDF ([download](assets/Plain-language-v08.pdf))
 
-Version: 0.8 (2025-04-28)
+Version: 0.9 (2025-05-19)
 
 | Author:  | Bartek Biedrzycki |
 | :---- | :---- |

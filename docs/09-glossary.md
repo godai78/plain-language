@@ -57,7 +57,7 @@ has_toc: false
 
 **Readability Rules** &ndash; Guidelines used to ensure text is clear and understandable for the intended audience.
 
-**Return on Investment**  &ndash;  ROI is a core financial performance measure used to evaluate the efficiency of an investment and to compare the efficiency to other investments.
+**Return on Investment** &ndash; ROI is a core financial performance measure used to evaluate the efficiency of an investment and to compare the efficiency to other investments.
 
 **Screen Reader** &ndash; Assistive technology that converts digital text into speech or braille, benefiting users with visual impairments.
 
