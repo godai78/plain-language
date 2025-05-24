@@ -21,6 +21,8 @@ An Uczelnia Vistula final project for the Technical Communication course.
 
 **Reader persona**: Aspiring/novice technical writers; 20-30yo for a novice, 40+ for people switching jobs on the current market; both male and female.
 
+**Example persona**: Hope Hadley, 26, white female, junior technical writer in training with some copy/marketing and amateur literary background (A3O).
+
 Formats available: HTML (markdown+github pages) / formatted PDF ([download](assets/Bartek_Biedrzycki-Plain_language.pdf))
 
 Version: 1.0 (2025-05-22)
