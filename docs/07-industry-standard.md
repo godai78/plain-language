@@ -1,5 +1,5 @@
 ---
-title: Industry standard - Simple Technical English
+title: 07. Industry standard - Simple Technical English
 layout: default
 nav_order: 70
 has_toc: false

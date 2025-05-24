@@ -1,5 +1,5 @@
 ---
-title: Differences between Technical Writing and Creative Writing
+title: 03. Differences between Technical Writing and Creative Writing
 layout: default
 nav_order: 30
 has_toc: false

@@ -1,5 +1,5 @@
 ---
-title: Glossary of terms
+title: 09. Glossary of terms
 layout: default
 nav_order: 90
 has_toc: false
